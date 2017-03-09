@@ -1,0 +1,9 @@
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\SYNTest.dll
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\SYNTest.pdb
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\SYNAutomation.dll
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\WebDriver.dll
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\SYNAutomation.pdb
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\bin\Debug\WebDriver.xml
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\obj\Debug\SYNTest.csprojResolveAssemblyReference.cache
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\obj\Debug\SYNTest.dll
+c:\users\satellite\documents\visual studio 2015\Projects\SYNAutomation\SYNTest\obj\Debug\SYNTest.pdb

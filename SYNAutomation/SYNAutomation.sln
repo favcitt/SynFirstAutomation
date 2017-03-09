@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYNAutomation", "SYNAutomation\SYNAutomation.csproj", "{2EE91FD3-C1A8-43EB-80FF-C73EC1A50683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYNTest", "SYNTest\SYNTest.csproj", "{47BD0937-30FD-4E21-A640-228010FB0455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE91FD3-C1A8-43EB-80FF-C73EC1A50683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE91FD3-C1A8-43EB-80FF-C73EC1A50683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE91FD3-C1A8-43EB-80FF-C73EC1A50683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE91FD3-C1A8-43EB-80FF-C73EC1A50683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BD0937-30FD-4E21-A640-228010FB0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BD0937-30FD-4E21-A640-228010FB0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BD0937-30FD-4E21-A640-228010FB0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BD0937-30FD-4E21-A640-228010FB0455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
